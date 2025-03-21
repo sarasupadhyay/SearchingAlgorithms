@@ -20,7 +20,7 @@ class BinarySearch
     }
     public static void main(String[] arg)
     {
-       int ar[]={34,87,56,21,45,23,56,43,12,34,32,98,73};
+       int ar[]={34,87,56,21,45,23,56,43,12,34,32,98,73}; 
        //before doing binary search we have to sort thr array in assending order
        Arrays.sort(ar);
        BinarySearch ob=new BinarySearch();
